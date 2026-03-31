@@ -2,10 +2,11 @@
 
 ## Transportation Data Visualization and Simulation
 This Python Programming Assignment 3 is completed by Abdi Aden for CIVE 202 and is intended to be shared with the instructor.
+
 This project involves the analysis of real-world data related to transportation. The project involves the following:
 
-NHTS (National Household Travel Survey) -> travel patterns
-NGSIM (Next Generation Simulation) -> vehicle-following behavior
+NHTS (National Household Travel Survey) - travel patterns
+NGSIM (Next Generation Simulation) - vehicle-following behavior
 
 The purpose of the project is:
 
