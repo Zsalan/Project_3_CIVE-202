@@ -50,7 +50,9 @@ This repository includes all the required materials for Project #3. The material
 
 – A Jupyter Notebook that is used to produce the analysis and results
 
-#### Datasets (NHTS.csv and NGSIM.csv) – Data required for the project
+#### Datasets (NHTS.csv and NGSIM.csv) 
+
+– Data required for the project
 
 ## How to Run the Code
 Make sure you have Python installed with the following libraries:
