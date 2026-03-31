@@ -23,19 +23,32 @@ The project also shows the potential for Python to be used as an engineering too
 This repository includes all the required materials for Project #3. The materials are as follows:
 
 README.md 
+
 – A summary of the project and a guide on how to run the code
+
 Scope of Work (SOW) 
+
 – A detailed outline of the project activities and requirements
+
 Annotated Code Document (ACD) 
+
 – An explanation of the Python code written
+
 Technical Report 
+
 – A comprehensive report comprising an introduction, methods, results, and discussion
+
 Gantt Chart 
+
 – A project plan showing the project timeline and scheduling
+
 Engineering Timesheet 
+
 – A log of the hours spent working and the activities completed
 Python Code (.ipynb) 
+
 – A Jupyter Notebook that is used to produce the analysis and results
+
 Datasets (NHTS.csv and NGSIM.csv) – Data required for the project
 
 ## How to Run the Code
