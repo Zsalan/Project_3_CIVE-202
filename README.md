@@ -26,30 +26,31 @@ This repository includes all the required materials for Project #3. The material
 
 – A summary of the project and a guide on how to run the code
 
-Scope of Work (SOW) 
+#### Scope of Work (SOW) 
 
 – A detailed outline of the project activities and requirements
 
-Annotated Code Document (ACD) 
+#### Annotated Code Document (ACD) 
 
 – An explanation of the Python code written
 
-Technical Report 
+#### Technical Report 
 
 – A comprehensive report comprising an introduction, methods, results, and discussion
 
-Gantt Chart 
+#### Gantt Chart 
 
 – A project plan showing the project timeline and scheduling
 
-Engineering Timesheet 
+#### Engineering Timesheet 
 
 – A log of the hours spent working and the activities completed
-Python Code (.ipynb) 
+
+#### Python Code (.ipynb) 
 
 – A Jupyter Notebook that is used to produce the analysis and results
 
-Datasets (NHTS.csv and NGSIM.csv) – Data required for the project
+#### Datasets (NHTS.csv and NGSIM.csv) – Data required for the project
 
 ## How to Run the Code
 Make sure you have Python installed with the following libraries:
