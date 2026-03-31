@@ -22,7 +22,7 @@ The project also shows the potential for Python to be used as an engineering too
 ## Repository Contents
 This repository includes all the required materials for Project #3. The materials are as follows:
 
-README.md 
+#### README.md 
 
 – A summary of the project and a guide on how to run the code
 
