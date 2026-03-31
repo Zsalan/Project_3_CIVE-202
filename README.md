@@ -130,11 +130,17 @@ Final revisions
 
 ## Final Deliverables
 Python Code (.ipynb)
+
 Annotated Code Document
+
 Scope of Work
+
 Gantt Chart
+
 Engineering Timesheet
+
 Technical Report
+
 GitHub Repository
 
 ## References
